@@ -9,7 +9,7 @@ women excel at (soccer, lacrosse, athletics, swimming etc.) and that are not in 
     - Public colleges (where NCAA Revenue and Expense Reports) are available.
     - Moreover, public collegs where women historically excel in sports.
  
-Upon further research, it was discovered that the NCAA has a power ranking database for women's soccer based on RPI (Ratings Power Index) - which is made up of three components - a tema's winning percentange, average opponent's winning percentage and average opponent's opponent's winning percentage. Essentially, it ranks on strength of schedule. 
+Upon further research, it was discovered that the NCAA has a power ranking database for women's soccer based on RPI (Ratings Power Index) - which is made up of three components - a team's winning percentange, average opponent's winning percentage and average opponent's opponent's winning percentage. Essentially, it ranks on strength of schedule. 
 
 https://www.ncaa.com/rankings/soccer-women/d1/ncaa-womens-soccer-rpi
 
