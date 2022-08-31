@@ -13,7 +13,7 @@ Upon further research, it was discovered that the NCAA has a power ranking datab
 
 https://www.ncaa.com/rankings/soccer-women/d1/ncaa-womens-soccer-rpi
 
-I developed a web scraping tool to extract the first 50 schools on this list to be used in my investigation.
+I developed a web scraping program (https://github.com/jpa203/NCAA-Women-Soccer-Power-Rankings-Scraper/blob/main/web-scraping.py) to extract the first 50 schools on this list to be used in my investigation.
   
   
 
