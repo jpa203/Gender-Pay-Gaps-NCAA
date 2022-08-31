@@ -17,7 +17,7 @@ I developed a web scraping program (https://github.com/jpa203/NCAA-Women-Soccer-
   
   
 
-2) I then decided to create a web scraping program to get all press email addresses from all 50 schools. I noticed that *most* athletic departments have the same HTML code, which makes it easier to iterate through and parse. The code for that can be found here. 
+2) I then decided to create a web scraping program (https://github.com/jpa203/Athletic-Department-Web-Scraper) to get all press email addresses from all 50 schools. I noticed that *most* athletic departments have the same HTML code, which makes it easier to iterate through and parse. The code for that can be found here. 
     
     
 
